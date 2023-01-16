@@ -20,6 +20,22 @@ For this scrapping this link have the information of the 9 generation of Pokemon
 
 [Pokemon Stats](https://game8.co/games/Pokemon-Scarlet-Violet/archives/391663#hl_1)
 
+# Data Analysis
 
+The information of dataset:
+
+[Data](./gen9_data.csv)
+
+| Column  | Description |
+|-----------|------------|
+|Pokemon| Name of Pokemon|
+|H| HP of Healt of Pokemon|
+|A| Attack of Pokemon|
+|B| Defense|
+|C| Special Attack|
+|D| Special Defense|
+|S|Speed|
+
+[Notebook of analysis](./data_analysis.ipynb)
 
 
