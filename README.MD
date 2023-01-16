@@ -2,6 +2,10 @@
 
 In this project I use the python concepts and libraries for do a data analysys for the pokemon data. Pokemon company in the games or the anime is the one of the most important companies.
 
+In specific by Pokémon Scarlet and Pokémon Violet will be the first open-world RPG in the Pokémon series focused on the ninth generation of games with a release date of 2022. 
+
+![](./img/logo.jpg)
+
 ## Requeriments
 
 This project is executed with a virtual enviroment by Python version **3.10.7**
